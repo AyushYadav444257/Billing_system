@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Billing-System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Billing-System/jgoodies-forms-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Billing-System/jgoodies-forms-1.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Billing-System/Billing System.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
